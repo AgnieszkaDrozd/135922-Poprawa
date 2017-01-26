@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\bin\Debug\poprawa135922.exe.config
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\obj\Debug\poprawa135922.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\bin\Debug\poprawa135922.exe
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\bin\Debug\poprawa135922.pdb
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\obj\Debug\poprawa135922.exe
+C:\Users\local\Desktop\AgnieszkaDrozd\poprawa135922\poprawa135922\obj\Debug\poprawa135922.pdb
